@@ -1,0 +1,34 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+*.csproj.user
+*.suo
+*.sln.docstates
+
+# ReSharper
+_ReSharper*/
+
+# Debugging specific files
+*.pdb
+
+# User-specific files
+*.user
+*.vspscc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# .NET Core
+*.runtimeconfig.json
+*.deps.json
+*.pdb
+
+# Visual Studio Cache files
+*.VC.db
+*.VC.VC.opendb
