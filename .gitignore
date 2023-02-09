@@ -32,3 +32,6 @@ build/
 # Visual Studio Cache files
 *.VC.db
 *.VC.VC.opendb
+
+# Others
+CashRegisterSimulator/TODO.txt
