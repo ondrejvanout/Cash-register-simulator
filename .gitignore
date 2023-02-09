@@ -9,7 +9,7 @@ obj/
 
 # ReSharper
 _ReSharper*/
-
+.idea/
 # Debugging specific files
 *.pdb
 
