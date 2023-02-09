@@ -1,0 +1,8 @@
+- GIT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+- get user input
+- treat wrong answer 
+- get number of rounds
+- run simulator
+- end simulator
+- cancel program (by pressing some key prolly?)
